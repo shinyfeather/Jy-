@@ -1,0 +1,31 @@
+.site-mast {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: blue;
+}
+
+.site-mast-right {
+    display: flex;
+    align-items: center;
+}
+
+.site-mast-right .site-nav-item:last-child {
+    padding-right: 0;
+}
+.center {
+    margin: 0;
+    position: absolute;
+    width: 2%;
+    top: 7%;
+    left: 95%;
+    transform: translate(-50%, -50%);
+  }
+  .center2 {
+    margin: 0;
+    position: absolute;
+    width: 2%;
+    top: 7%;
+    left: 92%;
+    transform: translate(-50%, -50%);
+  }

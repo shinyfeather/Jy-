@@ -1,17 +1,13 @@
 import React from 'react';
-import logo from './logo.png';
 import './App.css';
+import Banner from './Banner';
+import Social from './Social';
 
 function App() {
   return (
+    <Banner></Banner>
     
-    <div className="container">
-      </div>
-     // <div className="site-banner">
-    //<h1 className="site-banner-title">JY <br></br> MEDIA MARKETING</h1>
     
-   
-    //</div>
   );
 }
 
