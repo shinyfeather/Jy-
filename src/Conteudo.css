@@ -1,0 +1,15 @@
+.block {
+    background-color: #18191d;
+    min-height: 100vh;
+    display: flex; 
+    justify-content: center;
+  }
+.image{
+  padding-top: 50px;
+  padding-left: 125px;
+  padding-bottom: 50px;
+}
+  .text{
+    color:white;
+    font-size: 1rem;
+  }

@@ -16,16 +16,24 @@
 .center {
     margin: 0;
     position: absolute;
-    width: 2%;
+    width: 3%;
     top: 7%;
     left: 95%;
+    transform: translate(-50%, -50%);
+  }
+  .logo {
+    margin: 0;
+    position: absolute;
+    width: 15%;
+    top: 11%;
+    left: 8%;
     transform: translate(-50%, -50%);
   }
   .center2 {
     margin: 0;
     position: absolute;
-    width: 2%;
+    width: 3%;
     top: 7%;
-    left: 92%;
+    left: 91%;
     transform: translate(-50%, -50%);
   }

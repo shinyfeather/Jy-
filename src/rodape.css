@@ -1,0 +1,11 @@
+.ema {
+    background-color: #2b2c2c;
+    min-height: 7vh;
+    display: flex; 
+    align-items: center;
+    padding-right: 10px;
+    justify-content: flex-end;
+  }
+   
+
+
